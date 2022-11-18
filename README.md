@@ -10,7 +10,9 @@
 
 I'm an Engineering student at the University of Cambridge 👨‍💻. This GitHub houses many work projects, but was started as (and still is!) a repository for my personal projects.
 
-My projects span the fields of machine learning, data science, digital signal processing, mobile application development and game development. I work predominantly in Python, although I also write in C#, Javascript, C++, Lua and Dart.
+My projects span the fields of machine learning, data analysis, digital signal processing, mobile application development and game development. I work predominantly in Python, although I also write in C#, C++, Javascript, Dart and Lua.
+
+Do check out some of my repositories below :sparkles: (or check them all out at the 'Repositories' tab above)!
 
 ---
 
@@ -24,6 +26,7 @@ My projects span the fields of machine learning, data science, digital signal pr
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="Ansible" alt="Ansible" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;

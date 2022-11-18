@@ -34,7 +34,7 @@ Do check out some of my repositories below :sparkles: (or check them all out at 
 
 ---
 
-### My Stats
+### 📊 My Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nicholas-Ho&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicholas-Ho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

@@ -10,7 +10,7 @@
 
 I'm an Engineering student at the University of Cambridge 👨‍💻. This GitHub houses many work projects, but was started as (and still is!) a repository for my personal projects.
 
-My projects span the fields of machine learning, data analysis, digital signal processing, mobile application development and game development. I work predominantly in Python, although I also write in C#, C++, Go, Javascript and Rust.
+My projects span the fields of machine learning, data analysis, digital signal processing, mobile application development and game development. I am familiar with numerous programming languages, including Python, C#, C++, Go and Rust.
 
 Do check out some of my repositories below :sparkles: (or check them all out at the 'Repositories' tab above)!
 

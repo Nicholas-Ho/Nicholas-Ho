@@ -10,7 +10,7 @@
 
 I'm an Engineering student at the University of Cambridge 👨‍💻. This GitHub houses many work projects, but was started as (and still is!) a repository for my personal projects.
 
-My projects span the fields of machine learning, data analysis, digital signal processing, mobile application development and game development. I work predominantly in Python, although I also write in C#, C++, Javascript, Dart and Lua.
+My projects span the fields of machine learning, data analysis, digital signal processing, mobile application development and game development. I work predominantly in Python, although I also write in C#, C++, Go, Javascript and Rust.
 
 Do check out some of my repositories below :sparkles: (or check them all out at the 'Repositories' tab above)!
 
@@ -22,6 +22,7 @@ Do check out some of my repositories below :sparkles: (or check them all out at 
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPlusPlus" alt="CPlusPlus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
